@@ -3,6 +3,7 @@
 This is a basic template to spin up Laravel on docker.
 
 This is mostly not my own work but the work of dev.to linked below:
+
 https://dev.to/aschmelyun/the-beauty-of-docker-for-local-laravel-development-13c0
 
 I just wanted it in an easy git clone version. Please follow the article to get your dev site going after you clone this repo.
