@@ -1,4 +1,4 @@
-#LARAVEL ON DOCKER TEMPLATE
+# LARAVEL ON DOCKER TEMPLATE
 
 This is a basic template to spin up Laravel on docker store on github to pull easily.
 
