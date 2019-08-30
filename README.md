@@ -1,6 +1,6 @@
 # LARAVEL ON DOCKER TEMPLATE
 
-This is a basic template to spin up Laravel on docker store on github to pull easily.
+This is a basic template to spin up Laravel on docker.
 
 This is mostly not my own work but the work of dev.to linked below:
 https://dev.to/aschmelyun/the-beauty-of-docker-for-local-laravel-development-13c0
